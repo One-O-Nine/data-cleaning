@@ -58,7 +58,7 @@
     "congo, dem. rep. of": "COD",
     "cook islands": "COK",
     "costa rica": "CRI",
-    "côte d'ivoire": "CIV",
+    "cÃ´te d'ivoire": "CIV",
     "croatia": "FYUG-HRV",
     "cuba": "CUB",
     "cyprus": "CYP",
@@ -227,7 +227,7 @@
     "trinidad and tobago": "TTO",
     "tunisia": "TUN",
     "turkey": "TUR",
-    "turkménistan": "USSR-TKM",
+    "turkmÃ©nistan": "USSR-TKM",
     "turks and caicos islands": "TCA",
     "tuvalu": "TUV",
     "ukraine": "USSR-UKR",
@@ -238,6 +238,7 @@
     "united republic of tanzania": "TZA",
     "united states": "USA",
     "united states virgin islands": "VIR",
+    "uganda": "UGA",
     "unknown": "UNK",
     "uruguay": "URY",
     "uzbekistan": "USSR-UZB",
@@ -249,5 +250,7 @@
     "yemen": "YEM",
     "yemen, rep.": "YEM",
     "zambia": "ZMB",
-    "zimbabwe": "ZWE"
+    "zimbabwe": "ZWE",
+    "turkmenistan": "USSR-TKM",
+    "south sudan": "SSD"
 }
